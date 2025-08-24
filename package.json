@@ -1,0 +1,23 @@
+{
+  "name": "pw-restful-booker-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbcopenhaver/pw-restful-booker-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rbcopenhaver/pw-restful-booker-examples/issues"
+  },
+  "homepage": "https://github.com/rbcopenhaver/pw-restful-booker-examples#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0"
+  }
+}
